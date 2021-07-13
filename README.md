@@ -1,4 +1,4 @@
-    # Weather Website
+# Weather Website
 This weather website gives you current weather related information like humidity, precipitation,etc. based on your current geographical location.
 
 ## 📎 Live Server
